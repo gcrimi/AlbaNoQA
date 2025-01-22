@@ -1,4 +1,0 @@
-331c331
-< #if !defined( __VMS )
----
-> #if defined( __VMS )
